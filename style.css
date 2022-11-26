@@ -1,0 +1,9 @@
+@font-face{ 
+    font-family: "BlobbyChug";
+    src: url(../fonts/BLOBBYCHUG.ttf) format(truetype);
+    }
+    .letra{
+        font-family: "BlobbyChug";
+        color: white;
+    }
+    
